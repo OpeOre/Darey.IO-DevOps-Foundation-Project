@@ -12,4 +12,4 @@ DevOp is **very** interesting
 
 I want to add a new image
 
-![Added new image].(image/Scottish Tax coe.png)
+![Added new image](image/scottishtaxcode.png)
